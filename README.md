@@ -1,4 +1,4 @@
-<div style="background:black">
+<span style="background:black">
  Hi 👋 My name is Alexis Alberto Gómez García 
 ======================  Web/Android Developer =====================
 <br>I studied Mechanic Engineering and English Language Teaching but my true passion has always been programming. I have spent 3 years learning to coding and I have participated in various Android and Web projects, mainly Front End. Now I have special interest in learning Back End skills to become a Full Stack developer.  
@@ -6,7 +6,7 @@
 * ✉️  You can contact me at [alexisgmz12@gmail.com](mailto:alexisgmz12@gmail.com) 
 * 🧠  I'm learning PHP 
 * 🤝  I'm open to collaborating on any project
-</div>
+</span>
  
  
  
