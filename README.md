@@ -3,7 +3,7 @@
 <br>I studied Mechanic Engineering and English Language Teaching but my true passion has always been programming. I have spent 3 years learning to coding and I have participated in various Android and Web projects, mainly Front End. Now I have special interest in learning Back End skills to become a Full Stack developer.  
 * 🌍  I'm based in Mexico City 
 * ✉️  You can contact me at [alexisgmz12@gmail.com](mailto:alexisgmz12@gmail.com) 
-* 🧠  I'm learning PHP 
+* 🧠  I'm learning React Native and TypeScript
 * 🤝  I'm open to collaborating on any project
 
 ### Skills
